@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maelaequae.char1iez.com/sitemap.xml
